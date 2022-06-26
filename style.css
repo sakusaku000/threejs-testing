@@ -1,0 +1,31 @@
+html, body {
+    padding:0px;
+    margin:0px;
+    font-family:"Inter", sans-serif;
+    user-select:none;
+}
+
+canvas {
+    position:fixed;
+    top:0px;
+    left:0px;
+}
+
+main {
+    position:fixed;
+    bottom:40px;
+    left:0px;
+    right:0px;
+    text-align:center;
+    background-color:#00000090;
+    color:#FFFFFF;
+    padding:5px;
+}
+
+a {
+    color:#FFFFFF;
+}
+
+p {
+    margin:0px;
+}
